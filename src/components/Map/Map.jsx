@@ -21,8 +21,8 @@ const Map = () => {
         defaultZoom={14}
         margin={[50, 50, 50, 50]}
         options={''}
-        onChange={''}
-        onChildClick={''}
+        // onChange={''}
+        // onChildClick={''}
       >
 
       </GoogleMapReact>
